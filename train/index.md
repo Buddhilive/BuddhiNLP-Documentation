@@ -1,4 +1,4 @@
-layout: default
+# Train a Model
 
 Training a chat model using BuddhiNLP is very easy and straight forward. We use JSON file format to input data for training the model. The JSON file structure is as follows;
 
