@@ -22,5 +22,5 @@ import buddhi from 'buddhi-nlp'
 ```
 ### What's next?
 
-1.  [Train a model](https://github.buddhilive.com/nlp/train/)
-2.  [Use the trained model / Test Chatbot]((https://github.buddhilive.com/nlp/implement/)
+1.  [Train a model](https://github.buddhilive.com/train/)
+2.  [Use the trained model / Test Chatbot](https://github.buddhilive.com/implement/)
