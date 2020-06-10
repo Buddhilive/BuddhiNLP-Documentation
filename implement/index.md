@@ -38,3 +38,5 @@ Outputs
 1.  _answer[0]: Bot response as String_
 2.  _answer[1]: Name of Intent as String_
 3.  _answer[2]: Confidence or the accuracy as float_
+
+layout: default
