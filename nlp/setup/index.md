@@ -24,5 +24,3 @@ import buddhi from 'buddhi-nlp'
 
 1.  [Train a model](https://github.buddhilive.com/nlp/train/)
 2.  [Use the trained model / Test Chatbot]((https://github.buddhilive.com/nlp/implement/)
-
-layout: default
