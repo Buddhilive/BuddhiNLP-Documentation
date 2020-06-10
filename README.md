@@ -11,7 +11,7 @@
 
 # Getting Started
 
-BuddhiNLP is a Open Source NodeJS library for building chatbots. BuddhiNLP is developed using [TensorflowJS](https://www.tensorflow.org/js/), a popular machine learning library developed by Google Engineers.
+BuddhiNLP is a Open Source NodeJS library for building chatbots developed and maintained by [Buddhilive Developers](https://www.buddhilive.com/). BuddhiNLP is developed using [TensorflowJS](https://www.tensorflow.org/js/), a popular machine learning library developed by Google Engineers.
 
 ## Install BuddhiNLP
 
