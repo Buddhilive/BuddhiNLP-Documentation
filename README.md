@@ -125,6 +125,6 @@ Outputs
 2.  _answer[1]: Name of Intent as String_
 3.  _answer[2]: Confidence or the accuracy as float_
 
-## Powered by
+<hr>
 
-![TensorFlow](https://3.bp.blogspot.com/-WTzZSn9g770/XuB94qd-d5I/AAAAAAAALyQ/chP6td8VOnUqDIfiEpYuTVUYnZzxz613gCK4BGAYYCw/s1600/PoweredByTensorFlow.png  =250x)
+<img src="https://3.bp.blogspot.com/-WTzZSn9g770/XuB94qd-d5I/AAAAAAAALyQ/chP6td8VOnUqDIfiEpYuTVUYnZzxz613gCK4BGAYYCw/s1600/PoweredByTensorFlow.png" width="200"/>
