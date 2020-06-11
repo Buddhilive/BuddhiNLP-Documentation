@@ -127,4 +127,4 @@ Outputs
 
 ## Powered by
 
-![TensorFlow](https://3.bp.blogspot.com/-WTzZSn9g770/XuB94qd-d5I/AAAAAAAALyQ/chP6td8VOnUqDIfiEpYuTVUYnZzxz613gCK4BGAYYCw/s1600/PoweredByTensorFlow.png)
+![TensorFlow](https://3.bp.blogspot.com/-WTzZSn9g770/XuB94qd-d5I/AAAAAAAALyQ/chP6td8VOnUqDIfiEpYuTVUYnZzxz613gCK4BGAYYCw/s1600/PoweredByTensorFlow.png  =250x)
